@@ -1,0 +1,3 @@
+[submodule "Modules/allstat"]
+	path = Modules/allstat
+	url = https://github.com/efmsoft/allstat.git
