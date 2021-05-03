@@ -2,7 +2,7 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemDefinitionGroup>
     <ClCompile>
-      <PreprocessorDefinitions>AS_COMPRESS_DESCRIPTION=1;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>AS_COMPRESS_DESCRIPTION=1;AS_CUSTOM_BUILD;AS_BUILD_AS_LRESULT=1;AS_BUILD_AS_ERRNO=1;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
   </ItemDefinitionGroup>
 </Project>
