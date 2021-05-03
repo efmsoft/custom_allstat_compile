@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CustomAllstatCompile.cpp">
+    <ClCompile Include="ConsoleApp.cpp">
       <Filter>source</Filter>
     </ClCompile>
   </ItemGroup>

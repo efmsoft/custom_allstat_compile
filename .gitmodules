@@ -1,3 +1,6 @@
 [submodule "Modules/allstat"]
 	path = Modules/allstat
 	url = https://github.com/efmsoft/allstat.git
+[submodule "Modules/zlib.git"]
+	path = Modules/zlib
+	url = https://github.com/madler/zlib.git
